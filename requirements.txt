@@ -1,0 +1,7 @@
+requests
+pytest
+grequests
+faker
+pytest-html
+schema
+pytest-xdist
