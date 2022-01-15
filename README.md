@@ -10,7 +10,7 @@ Groovy Code Executor is a REST service that accepts groovy code requests, execut
 ## Usage
 
 * The tests can be executed in following ways - 
-	1. Using PyTest command : 
+	1. Using PyTest command: 
 
 		a. Pre-requisite : To execute tests, install the required dependencies through command
     
@@ -32,7 +32,7 @@ Groovy Code Executor is a REST service that accepts groovy code requests, execut
 	  		  	    Specific test : Add tests/test_multi_requests_user.py::TestDefaults::test_submit_null_code_and_check_status in place of .
 
 	
-	2. Using Make file : 
+	2. Using Make file: 
 		To execute using make file follow below process -
     
 			a. make environment : This will install all required dependencies and create a virual environment
